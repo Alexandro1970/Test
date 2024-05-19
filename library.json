@@ -1,1 +1,12 @@
-
+{
+    "id": "{FCCA06D8-7A88-1425-9B51-2855ED4E43A4}",
+    "author": "Alex",
+    "name": "Lichter blinken",
+    "url": "www.nochnicht.de",
+    "compatibility": {
+        "version": "5.0"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}
